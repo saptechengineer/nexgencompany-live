@@ -9,7 +9,7 @@ import BlogPost from './components/BlogPost';
 import ContactModal from './components/ContactModal';
 import TermsOfService from './pages/TermsOfService';
 import PrivacyPolicy from './pages/PrivacyPolicy';
-import PartnershipPage from './pages/PartnershipPage';
+import PartnershipPage from './pages/PartnershipPage.tsx';
 import { useScrollToTop } from './hooks/useScrollToTop';
 
 const ScrollToTop: React.FC = () => {
